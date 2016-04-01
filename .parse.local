@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "BidAcre": {
+      "applicationId": "XFsoLNm2zemSMMTOyAy7P05aZe28ktAnw1c5rU8p"
+    },
+    "_default": {
+      "link": "BidAcre"
+    }
+  }
+}
