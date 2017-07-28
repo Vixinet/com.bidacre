@@ -1,3 +1,3 @@
-# www.bidacre.herokuapp.com
+# http://bidacre.herokuapp.com
 
-project aborted as the owner did want to pay for the work once done.
+Project aborted as the owner did want to pay for the work once done.
